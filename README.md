@@ -1,17 +1,64 @@
-# 💫 About Me:
-#### Hi, I am Mahdi a passionate Front-End Developer with a love for the JavaScript family.
+## Hi Guys ✋🏻
 
+I'm Mahdi Ghasemi, a <Strong>Front-End Developer</Strong> with around <Strong>two years</Strong> of experience in the field.
+</br>
+Currently, I'm working with <Strong>TypeScript</Strong> and the <Strong>Next.js</Strong> framework.
+</br>
+I'm always eager to learn and apply the latest <Strong>technologies</Strong> and <Strong>libraries</Strong> related to front-end development.
+</br>
+My goal is to gradually grow into a skilled and professional <Strong>Front-End Engineer</Strong>.
+</br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/q.mahdi84) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/q-mahdi84) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18251391) 
+---
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<details close>
+  <summary> 🧩 About My Skills</summary>
+  <div align="left">
+      <h4>Programming Languages:<h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+      <br />
+      <h4>Libraries & Frameworks:</h4>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,bootstrap,materialui,vitest" />
+      <br />
+      <h4>Version Control & Development Tools:</h4>
+      <img src="https://skillicons.dev/icons?i=github,git,babel,webpack,vite,vscode,npm" />
+      <br />
+  </div>
+</details>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-q&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<details close>
+  <summary> 📊 My Github Informations</summary>
+  <div>
+      <h4>Github Contribution Graph:<h4>
+      <div align="center">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=q84mahdi&bg_color=0f172b&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true&hide_title=true" alt="Github Activity Graph" />
+      </div>
+      <br />
+      <h4>Github Stats:</h4>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=q84mahdi&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0f172b&border_color=0D1117&text_color=ffffff" alt="Github Activity Result" />  
+      </div>
+      <br />
+      <h4>Most Used Languages:</h4>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=q84mahdi&theme=gruvbox&bg_color=0f172b&border_color=0D1117&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&hide_title=true" alt="Top Langs" />
+      </div>
+      <br />
+      <h4>Random Dev Quote:</h4>
+      <div align="center">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox&backgroundColor=0f172b&quoteColor=ffffff" alt="Popular Quotes" />
+      </div>
+      <br />
+  </div>
+</details>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+#### 🌐 Find Me On ...
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=invision&logoColor=white&color=00786f)](https://www.linkedin.com/in/q84mahdi/)
+[![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=white&color=00786f)](https://telegram.me/q84mahdi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&color=00786f)](https://instagram.com/q84mahdi)
+[![StackOverflow](https://img.shields.io/badge/-StackOverflow-af3a03?style=flat&logo=stackoverflow&logoColor=white&color=00786f)](https://stackoverflow.com/users/18251391)
