@@ -11,18 +11,29 @@ My goal is to gradually grow into a skilled and professional <Strong>Front-End E
 
 ---
 
-<details close>
-  <summary> 🧩 About My Skills</summary>
+<details>
+  <summary>🧩 About My Skills</summary>
+
   <div align="left">
-      <h4>Programming Languages:<h4>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
-      <br />
-      <h4>Libraries & Frameworks:</h4>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,redux,bootstrap,materialui,vitest" />
-      <br />
-      <h4>Version Control & Development Tools:</h4>
-      <img src="https://skillicons.dev/icons?i=github,git,babel,webpack,vite,vscode,npm" />
-      <br />
+    <h4>Languages & Markup:</h4>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+    <br />
+    <h4>Frontend:</h4>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,sass,styledcomponents" />
+    <img src="https://cdn.simpleicons.org/tanstack" width="48" height="48" />
+    <img src="https://cdn.simpleicons.org/reacthookform" width="48" height="48" />
+    <img src="https://cdn.simpleicons.org/axios" width="48" height="48" />
+    <img src="https://cdn.simpleicons.org/swiper" width="48" height="48" />
+    <br />
+    <h4>Testing:</h4>
+    <img src="https://skillicons.dev/icons?i=vitest" />
+    <img src="https://cdn.simpleicons.org/testinglibrary" width="48" height="48" />
+    <br />
+    <h4>Tools:</h4>
+    <img src="https://skillicons.dev/icons?i=git,github,vite,webpack,babel,vscode,npm,postman" />
+    <br />
+    <h4>DevOps & Monitoring:</h4>
+    <img src="https://skillicons.dev/icons?i=docker,sentry" />
   </div>
 </details>
 
