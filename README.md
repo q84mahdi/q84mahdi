@@ -22,8 +22,6 @@ My goal is to gradually grow into a skilled and professional <Strong>Front-End E
     <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap,sass,styledcomponents" />
     <img src="https://cdn.simpleicons.org/tanstack" width="48" height="48" />
     <img src="https://cdn.simpleicons.org/reacthookform" width="48" height="48" />
-    <img src="https://cdn.simpleicons.org/axios" width="48" height="48" />
-    <img src="https://cdn.simpleicons.org/swiper" width="48" height="48" />
     <br />
     <h4>Testing:</h4>
     <img src="https://skillicons.dev/icons?i=vitest" />
@@ -42,19 +40,19 @@ My goal is to gradually grow into a skilled and professional <Strong>Front-End E
 <details close>
   <summary> 📊 My Github Informations</summary>
   <div>
-      <h4>Github Contribution Graph:<h4>
+      <!-- <h4>Github Contribution Graph:<h4>
       <div align="center">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=q84mahdi&bg_color=0f172b&color=6e6e6e&line=00572a&point=39d353&area=true&hide_border=true&hide_title=true" alt="Github Activity Graph" />
       </div>
-      <br />
+      <br /> -->
       <h4>Github Stats:</h4>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=q84mahdi&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0f172b&border_color=0D1117&text_color=ffffff" alt="Github Activity Result" />  
+        <img src="https://github-stats-extended.vercel.app/api?username=q84mahdi&count_private=true&show_icons=false&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=0f172b&border_color=0D1117&text_color=ffffff" alt="Github Activity Result" />  
       </div>
       <br />
       <h4>Most Used Languages:</h4>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=q84mahdi&theme=gruvbox&bg_color=0f172b&border_color=0D1117&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&hide_title=true" alt="Top Langs" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=q84mahdi&theme=gruvbox&bg_color=0f172b&border_color=0D1117&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&hide_title=true" alt="Top Langs" />
       </div>
       <br />
       <h4>Random Dev Quote:</h4>
